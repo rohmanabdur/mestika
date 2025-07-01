@@ -1,0 +1,2 @@
+# mestika
+Mesin Titik Acak
