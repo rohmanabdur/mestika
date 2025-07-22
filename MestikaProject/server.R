@@ -1,5 +1,5 @@
 fpaket(
-  "shiny", "shinyjs", "leaflet", "s2", "terra", "sf", "openxlsx", "bslib",
+  "shiny", "shinyjs", "leaflet", "s2", "sf", "openxlsx", "bslib",
   "tools", "waiter", "reactable"
 )
 
